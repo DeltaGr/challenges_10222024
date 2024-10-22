@@ -43,3 +43,4 @@ Are you able to answer the following questions? If not, you're not ready to move
 - What should be the immediate 1st step when you're looking to perform a standard operation (sorting an array, upcasing a word, etc.)?
 - What's the second step, to make sure you really understand the method you found?
 # challenges_10222024
+# challenges_10222024
